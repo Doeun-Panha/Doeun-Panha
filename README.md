@@ -30,7 +30,7 @@ I am a disciplined developer focused on building **secure, scalable, and maintai
 ---
 
 ### 🚀 Featured Projects
-* **[E-Commerce Platform](https://github.com/Doeun-Panha/e-commerce-flutter):** An ongoing full-stack solution featuring a **Flutter** mobile client and a **RESTful API** built with **Spring Boot** ([API Repo](https://github.com/Doeun-Panha/e-commerce-spring)) and **SQL Server** for secure data persistence.
+* **[E-Commerce Platform](https://github.com/Doeun-Panha/E-Commerce-Flutter):** An ongoing full-stack solution featuring a **Flutter** mobile client and a **RESTful API** built with **Spring Boot** ([API Repo](https://github.com/Doeun-Panha/E-Commerce-Spring)) and **SQL Server** for secure data persistence.
 * **[Expense Tracker](https://github.com/Doeun-Panha/Expense-Tracker):** An offline mobile application for tracking expenses built using **Flutter** and local data storage.
 * **[Coffee Management System](https://github.com/Doeun-Panha/CoffeeManagementSystem):** A desktop solution using **C# (WinForms)** and **SQL Server** for inventory management, sale records tracking, users, and employees management.
 
